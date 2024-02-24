@@ -1,0 +1,1 @@
+python script that let's you transcribe (basically) unlimited times, bypassing the 15 file input limitation from Google's batching transcrtiption. Uses the dynamic_batching for it's processing strategy to force a much lower pricing tier. Change language/model if you need to
